@@ -1,0 +1,6 @@
+ip privada: 192.168.0.2
+
+MAC: 8C-8C-AA-E3-63-6C
+
+Si, la ip privada y publica son diferentes
+
