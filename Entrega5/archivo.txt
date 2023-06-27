@@ -1,0 +1,2 @@
+hola me conecte por telnet
+hola me conecte por SSh

@@ -1,0 +1,9 @@
+Telnet:
+Pros:Acceso remoto y compativilida
+Cons: mala seguridad y vulnerabiblidad
+
+SSH:
+pros: Seguridad y autenticacion
+cons: configuracion inicial y consumo recursos
+
+SSH a diferencia de telnet, es mejor en seguridad, autenticacion y funcionalidad.
